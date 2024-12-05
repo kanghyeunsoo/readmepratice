@@ -2,6 +2,8 @@
 
 ![대학로고](https://github.com/kanghyeunsoo/readmepratice/blob/main/kdulogo_white.png?raw=true)
 
+[사이트주소](https://international.kdu.ac.kr/applicant/main)
+
 # 제작목적
 
 유학생의 원서접수를 위한 사이트제작
