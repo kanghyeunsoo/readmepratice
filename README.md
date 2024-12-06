@@ -50,6 +50,32 @@
 
 ## ERD
 
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/erd.PNG?raw=true"/>
+
 ## 주요 기능
 
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%EC%A0%84%ED%98%95%EC%9D%BC%EC%A0%95.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%EA%B5%AD%EA%B0%80.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%ED%95%99%EA%B3%BC.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%EC%96%B4%ED%95%99%EC%8B%9C%ED%97%98.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%EC%9C%A0%ED%95%99%EC%9B%90%20%EA%B3%84%EC%A0%95.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%EB%8C%80%EC%99%B8%ED%98%91%EB%A0%A5%EC%B2%98%20%EA%B3%84%EC%A0%95.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%ED%8C%8C%EC%9D%BC%20%ED%99%95%EC%9E%A5%EC%9E%90.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%EA%B3%B5%EC%A7%80%20%EC%9E%91%EC%84%B1.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%EA%B3%B5%EC%A7%80%20%EC%88%98%EC%A0%95%20%EC%82%AD%EC%A0%9C.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%9B%90%EC%84%9C%20%ED%99%95%EC%9D%B8%20%EB%B0%8E%20%EC%A0%91%EC%88%98.gif?raw=true"/>
+
+<img src="https://github.com/kanghyeunsoo/readmepratice/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%9B%90%EC%84%9C%20%EC%A0%91%EC%88%98%20%EB%B0%8E%20%EC%88%98%EC%A0%95.gif?raw=true"/>
+
 ## 이후 개선할것
+
+
